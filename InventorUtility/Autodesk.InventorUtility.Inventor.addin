@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 24.0-->
+  <ClassId>{3d39e523-ec83-437d-872d-6efe1ed5e745}</ClassId>
+  <ClientId>{3d39e523-ec83-437d-872d-6efe1ed5e745}</ClientId>
+  <DisplayName>InventorUtility</DisplayName>
+  <Description>InventorUtility</Description>
+  <Assembly>InventorUtility.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>23..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
